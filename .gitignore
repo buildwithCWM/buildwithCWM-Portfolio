@@ -1,0 +1,5 @@
+# .gitignore
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store  # Mac junk file
