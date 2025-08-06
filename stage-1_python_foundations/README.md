@@ -7,6 +7,7 @@ This folder contains small, hands-on coding challenges designed to reinforce Pyt
 |--------------------|-----------------------------------------------------------|------------------------------------------|
 | Odd & Even Detector | Simple program to determine if a number is odd or even   | `input()`, `try/except`, conditionals    |
 | Customizable FizzBuzz Generator    | Customizable FizzBuzz generator with user interaction     | functions, loops, modularity, validation |
+| Basic Unit Converter          | Converts between units like kilometers/miles, °C/°F, etc. via menu options | input validation, function logic, string formatting |
 
 ## Learning Goals
 - Strengthen problem-solving skills using basic Python syntax
